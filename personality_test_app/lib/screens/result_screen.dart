@@ -1,4 +1,3 @@
-// lib/screens/result_screen.dart
 import 'package:flutter/material.dart';
 import 'package:personality_test_app/widgets/my_button.dart';
 import '../models/personality.dart';

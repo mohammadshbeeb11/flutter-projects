@@ -1,4 +1,3 @@
-// lib/screens/start_screen.dart
 import 'package:flutter/material.dart';
 
 class StartScreen extends StatelessWidget {
